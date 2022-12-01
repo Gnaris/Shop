@@ -1,0 +1,7 @@
+name: Shop
+version: '1.0'
+main: chn.gnaris.shop.ShopMain
+api-version: 1.19
+depend: [ Economy ]
+commands:
+  adminshop:
